@@ -3,7 +3,16 @@
 ___
 
 ## Установка проекта
+**Предварительные требования:**
 
+Python 3.7 или выше
+PostgreSQL
+Docker
+Docker Compose
+Git
+Установленные зависимости из requirements.txt
+
+Клонировать проект через GitHub - https://github.com/VladimirHehe/TESTDEV
 
 ## Настройка проекта
 
