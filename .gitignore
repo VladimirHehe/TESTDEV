@@ -1,0 +1,7 @@
+.idea
+__pycache__
+.env
+.env_db
+scr/alembic.ini
+venv
+.pytest_cache
